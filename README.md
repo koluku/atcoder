@@ -1,4 +1,4 @@
-# ab-ccontest
+# AtCoder Beginner Contest
 
 AtCoder Beginner ContestのPythonでの解答集です。ACで通ったものだけ置いてあります。  
 一部解いていない問題や、最適解ではないものありますので参考までに。
