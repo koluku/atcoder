@@ -5,5 +5,5 @@ a = xb -xa
 b = yb - ya
 c = xc - xa
 d = yc -ya
-area = math.fabs(a * d - b * c)/2
+area = math.fabs(a * d - b * c) / 2
 print(area)
