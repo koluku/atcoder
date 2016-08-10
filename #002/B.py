@@ -1,3 +1,5 @@
+import re
+ 
 word = input()
-reword = word.replace('a', '').replace('i', '').replace('u', '').replace('e', '').replace('o', '')
+reword = re.sub('[aiueo]', '', word)
 print(reword)
