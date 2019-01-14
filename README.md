@@ -49,7 +49,7 @@ if result:
 | {m}   | m回の繰り返し      | a{3}    | aaa              | a, aa, aaaa  |
 | {m,n} | m〜n回の繰り返し   | a{2, 4} | aa, aaa, aaaa    | a, aaaaa     |
 | []    | 集合               | [a-c]   | a, b, c          | d, e, f      |
-| \|   | 和集合（または）   | a\|b    | a, b             | c, d         |
+| \|   | 和集合（または）   | a\|b    | a, b             | c, d         |
 | ()    | グループ化         | (abc)+  | abc, abcabc      | a, ab, abcd  |
 
 ## LICENSE
