@@ -1,7 +1,14 @@
 # AtCoder
 
-AtCoder Beginner ContestのPythonでの解答集です。ACで通ったものだけ置いてあります。  
+AtCoder Beginner ContestのPythonでの解答集です。ACで通ったものだけ置いてあります。
 一部解いていない問題や、最適解ではないものありますので参考までに。
+
+Atcoder Beginner Contest 999の6問分の準備例
+※毎回直前になって準備しているので生成コード用意しました。
+
+```
+python3 make.py abc 999 --num 6
+```
 
 ## よく使うコード
 
